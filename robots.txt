@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://qualokafie.mikedzl.com/sitemap.xml
